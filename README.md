@@ -34,9 +34,9 @@
 
 <p align="center">
 
- <a href="https://github.com/SuhailTechInfo">
- <img title="Owner" src="https://img.shields.io/badge/SuhailTechInfo-darkred?style=flat-square&logo=github&label=owner"></a>
-   <a href="https://github.com/SuhailTechInfo">
+ <a href="https://github.com/irfanwahga">
+ <img title="Owner" src="https://img.shields.io/badge/irfanWahga-darkred?style=flat-square&logo=github&label=owner"></a>
+   <a href="https://github.com/irfanwahga">
     <img src="https://img.shields.io/github/followers/SuhailTechInfo?style=flat-square&logo=github&color=darkred">
   </a>
   
@@ -63,7 +63,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/SuhailTechInfo/Suhail-Md"><b>IrfanWahga</b></a> Support Deploy On...
+  <a href="[https://github.com/irfanwahga/irfanwahga/]"><b>IrfanWahga</b></a> Support Deploy On...
 </p>
 
 <p align="center">
@@ -135,7 +135,7 @@
 
 
 - Star ⭐ repo if you like this bot.
-- If any problem, then create an [`+issue`](https://github.com/SuhailTechInfo/Suhail-Md/issues/new) Or ask anything here [`+Q&A`](https://github.com/SuhailTechInfo/Suhail-Md/discussions/new?category=q-a)!
+- If any problem, then contact me on [`+whatsapp`](https://wa.me/+923261761538) Or ask anything here [`+Q&A`](https://github.com/irfanwahga)!
 
 
 
@@ -147,5 +147,5 @@
 
 - *Irfan_wahga is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Suhail-Md at your own risk by keeping this warning in mind.*
+- *Use irfan-wahga at your own risk by keeping this warning in mind.*
 
