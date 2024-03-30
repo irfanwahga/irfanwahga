@@ -34,9 +34,9 @@
 
 <p align="center">
 
- <a href="https://github.com/irfanwahga">
+ <a href="https://github.com/SuhailTechInfo">
  <img title="Owner" src="https://img.shields.io/badge/SuhailTechInfo-darkred?style=flat-square&logo=github&label=owner"></a>
-   <a href="https://github.com/irfanwahga">
+   <a href="https://github.com/SuhailTechInfo">
     <img src="https://img.shields.io/github/followers/SuhailTechInfo?style=flat-square&logo=github&color=darkred">
   </a>
   
@@ -147,5 +147,5 @@
 
 - *Irfan_wahga is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Irfan_Wahga at your own risk by keeping this warning in mind.*
+- *Use Suhail-Md at your own risk by keeping this warning in mind.*
 
